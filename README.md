@@ -1,11 +1,9 @@
-Here is the full project in **Markdown** format, ready to paste into a GitHub `README.md` file:
 
-```markdown
 # 🚀 Kubernetes Version Upgrades on EKS & AKS: Real-World Walkthrough
 
 ## 🌍 Real-World Scenario
 
-You're a DevOps engineer responsible for managing production clusters on both AWS (EKS) and Azure (AKS). Kubernetes upgrades are critical for security patches, performance improvements, and new features. You must manage version compatibility, ensure smooth upgrades, and automate them where possible using Terraform, CLI tools, and IaC practices.
+> You're a DevOps engineer responsible for managing production clusters on both AWS (EKS) and Azure (AKS). Kubernetes upgrades are critical for security patches, performance improvements, and new features. You must manage version compatibility, ensure smooth upgrades, and automate them where possible using Terraform, CLI tools, and IaC practices.
 
 ---
 
